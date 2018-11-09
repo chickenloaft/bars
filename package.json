@@ -1,0 +1,23 @@
+{
+  "name": "bars",
+  "version": "0.0.1",
+  "description": "Bars - Facebook messenger rap bot",
+  "main": "index.js",
+  "engines": {
+    "node": "~10.12.0",
+    "yarn": "~1.10.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chickenloaft/bars.git"
+  },
+  "author": "Chicken Loaft",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chickenloaft/bars/issues"
+  },
+  "homepage": "https://github.com/chickenloaft/bars#readme"
+}
